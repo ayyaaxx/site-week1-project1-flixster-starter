@@ -2,9 +2,9 @@
 
 ## Week 1 Assignment: Flixster
 
-Submitted by: **NAME**
+Submitted by: **Aya Elfettahi**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **15** hours spent in total
 
 Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
@@ -50,17 +50,14 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
 I felt unprepared to complete the API and implement the load button feature, I think after figuring them out, it was not so bad but initally it was overwhelming/nervewracking. I think specifically knowing how to piece things together using all the files and knowing how to use data from an API. However, I did feel heavily prepared to tackle the HTML and css aspect of the project. It was a lot of fun hashing out style designs, and working through the querySelection part.
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
 If I had more time, I would do a better job at css styling, mainly with the search bar at the top, it's a little plain for now. I also would want to implement a strech feature such as the pop up or implement the paragaph description. 
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
 My API URL kept bugging out and certain functions were not working as they should which were huge blockers like my load button, even asking everyone, I was still having a hard time. I understand there are resources, but I assume because I started the project late, my resources were more limited. I think my peers did really well with readibility code, and my code could improve upon that topic.
 
 ### Open-source libraries used
