@@ -44,7 +44,10 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
-`ADD_EMBEDDED_CODE_HERE`
+<a href="https://www.loom.com/share/ceb1ffe435434b91979fdfa1326592e2">
+    <p>Private Video - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/placeholders/private-video.gif">
+  </a>
 
 ### Reflection
 
